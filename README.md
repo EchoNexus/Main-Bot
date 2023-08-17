@@ -1,2 +1,2 @@
 # Main-Bot
-EchoNexus' main bot. Invite at https://invite.echonexus.pro/
+EchoNexus' main bot. Invite at [invite.echonexus.pro](https://invite.echonexus.pro/)
